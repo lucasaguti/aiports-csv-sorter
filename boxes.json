@@ -1,0 +1,18 @@
+{
+  "boxes": [
+    {
+      "name": "test_area_1",
+      "min_lat": 30.0,
+      "max_lat": 40.0,
+      "min_lon": -90.0,
+      "max_lon": -80.0
+    },
+    {
+      "name": "dateline_example",
+      "min_lat": -20.0,
+      "max_lat": 20.0,
+      "min_lon": 170.0,
+      "max_lon": -170.0
+    }
+  ]
+}
